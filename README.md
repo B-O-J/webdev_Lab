@@ -1,2 +1,2 @@
-# webdev_Lab1
+# webdev_Lab
 Practice Lab
